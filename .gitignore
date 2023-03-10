@@ -1,0 +1,9 @@
+
+
+/Debug
+/images/*
+/includes
+/Binaries
+.settings/
+.project
+.cproject
